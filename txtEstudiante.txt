@@ -1,0 +1,3 @@
+['Carlos','Bolivar','1','cdbolivarz@gmail.com','1234']
+['Salomon','Anaya','2','sasampayo@gmail.com','1234']
+['Omar','Ortiz','3','omar@gmail.com','1010101']

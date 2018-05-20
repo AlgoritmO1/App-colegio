@@ -1,0 +1,67 @@
+class Mensajes:
+	mensajesEstudiante = {'menu' : 'Menu estudiantes',
+	 'inscripcion' : 'Inscribir estudiante.',
+	 'verEstudiante' : 'Ver estudiante.',
+	 'editar' : 'Editar estudiante.',
+	 'borrar' : 'Borrar estudiante.',
+	 'verEstudiantes' : 'Ver estudiantes.',
+	 'ingreseNombre' : 'Ingrese el nombre del estudiante: \n',
+	 'ingreseApellido' : 'Ingrese el apellido del estudiante: \n',
+	 'ingreseCedula' : 'Ingrese la cedula del estudiante: \n',
+	 'ingreseCelular' : 'Ingrese el celular del estudiante: \n',
+	 'ingreseEmail' : 'Ingrese el email del estudiante: \n'}
+
+
+	mensajesProfesor = {'menu' : 'Menu profesores',
+	 'inscripcion' : 'Inscribir profesor.',
+	 'verProfesor' : 'Ver profesor.',
+	 'editar' : 'Editar profesor.',
+	 'borrar' : 'Borrar profesor.',
+	 'verProfesores' : 'Ver profesores.',
+	 'ingreseNombre' : 'Ingrese el nombre del profesor: \n',
+	 'ingreseApellido' : 'Ingrese el apellido del profesor: \n',
+	 'ingreseCedula' : 'Ingrese la cedula del profesor: \n',
+	 'ingreseCelular' : 'Ingrese el celular del profesor: \n',
+	 'ingreseTelefono' : 'Ingrese el telefono del profesor: \n',
+	 'ingreseOficina' : 'Ingrese la oficina del profesor: \n',
+	 'ingreseEmail' : 'Ingrese el email del profesor: \n'}
+
+	mensajesMateria = {'menu' : 'Menu materias',
+	'consultar' : 'Consultar materias.',
+	'editar' : 'Editar materia.',
+	'borrar' : 'Borrar materia.',
+	'materiaConmasprofesores' : 'Materia con mas profesores.',
+    'materiaMejorNota' : 'Materia con mejor nota en una matricula.',
+    'materiaConmasmatriculas' : 'Materia con mas matriculas',
+    'ingreseNombre' : 'Ingrese el nombre de la materia: \n',
+    'crear': 'Crear materia'}
+
+
+	mensajesMatricula = {'menu' : 'Menu matriculas',
+	'verNota' : 'Ver nota.',
+	'asignarNota' : 'Asignar nota.',
+	'editarNota' : 'Editar nota.',
+	'mejorPromedio' : 'Mejor promedio.',
+	'estudiantesPorMateria' : 'Estudiantes por materia.',
+	'notaMasAlta' : 'Nota mas alta.',
+	'notaMasBaja' : 'Nota mas baja.',
+	'ingreseCodigo' : 'Ingrese el codigo de la matricula: \n',
+	'ingreseNota' : 'Ingrese la nota: \n',
+	'personaYaExiste' : 'Esta persona ya esta matriculada',
+	'noExiste': 'Esta matricula no existe',
+	'correcto' : 'Matriculado correctamente',
+	'matricular' : 'Matricular persona',
+	'crear' : 'Crear matricula',
+	'mejorPromedioMateria':'Los mejores promedios por materia son'}
+	
+	mensajesOtros = {'menu' : 'Otras opciones',
+	'datosFicticios' : 'Agregar datos ficticios.',
+	'salir': 'Salir de la aplicacion.',
+	'noExiste' : 'La informacion que intenta buscar no existe, asegurese de copiar bien.',
+	'elejirMenu' : 'Elija un menu:',
+	'opcion':'Ingrese una opcion:',
+	'opcionNoValida':'{0} La opcion ingresada no es valida',
+	'ingreseNombre' : 'Ingrese el nombre de la persona: \n',
+	'operacionExitosa' : 'La operacion se ha ejecutado correctamente. \n',
+	'notaPermitida' : 'La nota que ingreso esta fuera del rango permitido, recuerde que es una calificacion de 0 a 5 \n',
+	'yaExiste' : 'El dato ingresado ya se encuentra inscrito, por favor ingrese otro dato \n'}

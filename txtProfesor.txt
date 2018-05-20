@@ -1,0 +1,4 @@
+['Charles','Xavier','10','xavier@gmail.com','14782','45A','Matematicas']
+['Franklin','Parra','11','frank@gmail.com','123456','46A','Lengua Castellana']
+['Alvaro','Martinez','12','alv@gmail.com','1234567','47A','Ingles']
+['Isaac','Newton','13','N@gmail.com','986','3L','Fisica']
